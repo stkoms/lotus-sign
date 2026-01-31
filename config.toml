@@ -1,0 +1,9 @@
+[lotus]
+host = "https://api.node.glif.io/rpc/v0"
+# token = ""
+
+[database]
+path = "lotus_sign.db"
+
+[wallet]
+password="ed806000866f55eff1d96d060d66a8cd"
